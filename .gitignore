@@ -1,0 +1,11 @@
+/.idea/libraries/
+/.idea/**
+*.iml
+.idea/*
+/log/*
+/classes/
+/build/
+*.log
+/target/
+
+/.idea/
